@@ -1,0 +1,8 @@
+Jerome Mandel:   Software Design Lab Spring 20
+Goals for class:
+1.	Obtain a strong working knowledge of Python and Unix to support my continued professional development in data science and data analysis. Many the tools we practice in this class are now part of the essential skill set needed by a data scientist, especially, when you consider how much  data prep work comprises within  data science projects.
+2.	As we learn Python, I am most interested in exploring these the two areas within the language’s capabilities: (a) web scrapping (b) and database access.
+3.	From a practical perspective, leverage the synergies between this class and Professor Devaney’s Advanced Analytics class, in which I am also enrolled for this semester. Both courses overlap in providing instruction in Python and that is very much to my benefit. Profess Devaney has us doing Python practice via Data Camp hands-on tutorials and this class provides practice via the “Python the Hard Way” book.
+4.	Unix is now a common platform for data science work, especially now with the popularity of the Hardoop ecosystem as a preferred data source.  Therefore, it is really helpful to refresh my knowledge of Unix command line and scripting. 
+5.	I have had some prior exposure to HTML, CSS and Javascript. This class should further extend my knowledge of these important topics. My goal is to return to consulting and have a strong professional website extolling my many virtues and competencies (be they real or imagined). 
+6.	Finally, gain and solidify the core skills needed to carry me through the Masters in Data Analysis and Visualization Masters program at the CUNY grad school. 
